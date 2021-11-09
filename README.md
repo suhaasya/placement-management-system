@@ -27,3 +27,13 @@ Install required python modules
 - Find Eligible Companies for Students and ViseVersa.
 - Import data directly from csv file.
 
+
+
+
+## Confugurations
+
+- go to Confugurations folder and open config.py.
+- change the password and username with your mysql password and username
+- you can keep the database name as it is or change it.
+
+- #### note : all credential must be string mean dont remove quotation mark just replace text with your credentials

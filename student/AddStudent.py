@@ -285,5 +285,5 @@ def addStudents():
 
     root.mainloop()
 
-addStudents()
+# addStudents()
 
